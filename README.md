@@ -13,7 +13,7 @@
 
 ## 备用子域名
 
-以下地址正在配置，完成解析与 HTTPS 验证后启用：
+以下备用入口已启用，使用同一套简讯云账号和套餐数据：
 
 - [https://jx-r7m2.jl45378.buzz](https://jx-r7m2.jl45378.buzz/)
 - [https://jx-k8p4.jl45378.buzz](https://jx-k8p4.jl45378.buzz/)
