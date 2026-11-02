@@ -26,7 +26,7 @@
 
 ## 固定网址
 
-永不失联官网：
+打开vpn后可访问，永不失联官网：
 
 - [https://jianxunyun.site](https://jianxunyun.site/)
 - [https://openscloud.online](https://openscloud.online/)
