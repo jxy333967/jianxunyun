@@ -8,8 +8,8 @@
 
 ## 当前官网入口
 
-- [https://jl45378.buzz](https://jianxunyun.site/)
 - [https://jl45378.buzz](https://jl45378.buzz/)
+- [https://jianxunyun.site/](https://jianxunyun.site/)
 - [https://jl45378.sbs](https://jl45378.sbs/)
 
 以上入口使用同一套简讯云账号和套餐数据，已有账号直接登录即可。
