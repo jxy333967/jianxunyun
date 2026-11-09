@@ -9,7 +9,6 @@
 - [简讯云推荐入口](https://jx-t6c3.jl45378.sbs/)
 - [备用入口 jx-f7n2](https://jx-f7n2.jl45378.sbs/)
 - [备用入口 jx-p4v8](https://jx-p4v8.jl45378.sbs/)
-- [备用入口 openscloud.online](https://openscloud.online/)
 - [备用入口 jl45378.sbs](https://jl45378.sbs/)
 
 以上入口使用同一套账号和套餐数据，已有账号直接登录即可。订阅地址跟随当前访问的网页域名。
@@ -18,14 +17,12 @@
 
 - [www.jianxunyun.site](https://www.jianxunyun.site/)
 - [m.jianxunyun.site](https://m.jianxunyun.site/)
-- [www.openscloud.online](https://www.openscloud.online/)
 - [jx-r7m2.jl45378.buzz](https://jx-r7m2.jl45378.buzz/)
 - [jx-n3v6.jl45378.buzz](https://jx-n3v6.jl45378.buzz/)
 - [jx-b6t9.jl45378.sbs](https://jx-b6t9.jl45378.sbs/)
 - [jx-q4w8.jl45378.sbs](https://jx-q4w8.jl45378.sbs/)
 - [jx-c9h3.jl45378.sbs](https://jx-c9h3.jl45378.sbs/)
 
-原入口 [jianxunyun.site](https://jianxunyun.site/)、[jl45378.buzz](https://jl45378.buzz/)、[jx-k8p4.jl45378.buzz](https://jx-k8p4.jl45378.buzz/) 在部分国内测点出现访问异常，打不开时请使用上面的推荐入口。
 
 不同地区、运营商和时段的访问情况可能不同，短时测试通过不代表所有网络长期可用。入口打不开时可换另一个入口或切换手机流量。
 
