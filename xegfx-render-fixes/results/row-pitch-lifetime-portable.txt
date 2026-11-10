@@ -1,0 +1,6 @@
+READONLY_PITCH_FALLBACK step=0 wrong=0/756
+READONLY_PITCH_FALLBACK step=1 wrong=0/756
+READONLY_PITCH_FALLBACK step=2 wrong=0/756
+HOST_LOGICAL_SPAN_BOUNDARY_PASS
+BOUNDARY_PASS: 50 released buffer/view pairs; offset16 aliases retained; short buffer and writable usage refused
+PRIVATE_NATIVE_CANDIDATE_PASS; public buffer identity/offset/row retained; no installed plugin change

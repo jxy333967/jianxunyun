@@ -1,0 +1,26 @@
+[
+  {
+    "test": "barrier-legacy.m",
+    "exit": 0
+  },
+  {
+    "test": "barrier-modern.m",
+    "exit": 0
+  },
+  {
+    "test": "barrier-prebound.m",
+    "exit": 0
+  },
+  {
+    "test": "barrier-repeat.m",
+    "exit": 0
+  },
+  {
+    "test": "render-regression.m",
+    "exit": 0
+  },
+  {
+    "test": "row-pitch-lifetime.m",
+    "exit": 0
+  }
+]

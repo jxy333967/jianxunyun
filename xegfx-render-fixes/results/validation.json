@@ -1,0 +1,42 @@
+{
+  "date": "2026-11-10",
+  "OS": "macOS Sequoia 15.8.1 (24H32)",
+  "GPU": "Intel Meteor Lake 8086:7D55",
+  "CPU_logical_count": 6,
+  "RAM_GiB": 32,
+  "output": "HDMI 1920x1080; CG reports59Hz; CPU-copy scanout",
+  "upstream_tag": "v0.0.47",
+  "upstream_commit": "a3fd73ed68ae82af7d3c6a80ec4336507e944ed7",
+  "source_files": {
+    "NVMTLObjects.h": {
+      "upstream_sha256": "ea642acd2b4389a27550ee78ae96ff1762f7aa876cec96f3422cbd1faa492378",
+      "patched_sha256": "68888bbb138346253ce05f71912c892f6e15eedfa3ead7945751aab019412eb3"
+    },
+    "NVMTLObjects.m": {
+      "upstream_sha256": "13e4f39bd962c23ae4a988345fd5de57fb5c41cdf7274e164b7dc9159dc0cfbd",
+      "patched_sha256": "0ef6a14ae274057d5a0a976dc669a968dcec1dd680dc6256b4d62fea7605aa7b"
+    }
+  },
+  "deployed_binary_sha256": "5da74da49b3d0faed29f889253cf9ce1c37f4117df8512bee1be0b0efe94728a",
+  "loaded_binary_UUID": "965C9DAF-D7B8-3474-8737-007167E0E826",
+  "private_test_results": {
+    "old_texture_barrier_wrong_pixels": "512/1024",
+    "patched_legacy_modern_prebound_repeat_wrong_pixels": "0/1024 each",
+    "seven_render_regressions_wrong_pixels": 0,
+    "row_pitch_updates": 3,
+    "row_pitch_lifetime_pairs": 50,
+    "negative_host_span_and_writable_usage_checks": "pass"
+  },
+  "QEMU": "Final signed plugin dlopen and new-method ABI check pass; no physical GPU or pixels tested in VM",
+  "physical": "User confirmed small ghosting, missing corners, fully transparent materials, abnormal blocks disappeared after reboot; actual WindowServer barrier refresh log hit; stage7; submitted frame count30817; fail0; vblsync1; vblmiss0",
+  "preferences": "reduceTransparency=1 and reduceMotion=1 before and after; unsuccessful increaseContrast experiment restored to absent original key / effective0",
+  "limitations": [
+    "one boot and user-tested interfaces, not every app or workload",
+    "full native vibrancy/blur not demonstrated; preferences unchanged",
+    "no75Hz support added; no independent tear-free proof",
+    "first login still may reload WindowServer",
+    "sleep/wake and multihead not fixed",
+    "snapshot correction deliberately excludes depth/MSAA/views/mips/multitarget/query/resolve paths"
+  ],
+  "source_only": true
+}

@@ -1,0 +1,8 @@
+CASE quad-strip wrong_pixels=0/1024
+CASE scissor wrong_pixels=0/1024
+CASE straight-alpha wrong_pixels=0/1024
+CASE premultiplied-alpha wrong_pixels=0/1024
+CASE fragment-discard-circle wrong_pixels=0/1024
+CASE sRGB-alpha wrong_pixels=0/1024
+CASE red-write-mask wrong_pixels=0/1024
+TOTAL_WRONG=0; authored 32x32 offscreen targets only; no screen read/write
