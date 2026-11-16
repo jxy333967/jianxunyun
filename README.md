@@ -6,7 +6,7 @@
 
 ## 推荐访问入口
 
-- [简讯云推荐入口](https://jx-t6c3.jl45378.sbs/)
+- [简讯云推荐入口](https://jx-n3v6.jl45378.buzz/)
 - [备用入口 jx-f7n2](https://jx-f7n2.jl45378.sbs/)
 - [备用入口 jx-p4v8](https://jx-p4v8.jl45378.sbs/)
 - [备用入口 jl45378.sbs](https://jl45378.sbs/)
@@ -18,7 +18,6 @@
 - [www.jianxunyun.site](https://www.jianxunyun.site/)
 - [m.jianxunyun.site](https://m.jianxunyun.site/)
 - [jx-r7m2.jl45378.buzz](https://jx-r7m2.jl45378.buzz/)
-- [jx-n3v6.jl45378.buzz](https://jx-n3v6.jl45378.buzz/)
 - [jx-b6t9.jl45378.sbs](https://jx-b6t9.jl45378.sbs/)
 - [jx-q4w8.jl45378.sbs](https://jx-q4w8.jl45378.sbs/)
 - [jx-c9h3.jl45378.sbs](https://jx-c9h3.jl45378.sbs/)
