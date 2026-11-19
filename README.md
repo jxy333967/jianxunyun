@@ -2,28 +2,26 @@
 
 收藏本页，访问入口变更会在这里更新。
 
-更新日期：2026-11-07
+更新日期：2026-11-20
 
-## 推荐访问入口
+## 访问入口
 
-- [简讯云推荐入口](https://jx-n3v6.jl45378.buzz/)
-- [备用入口 jx-f7n2](https://jx-f7n2.jl45378.sbs/)
-- [备用入口 jx-p4v8](https://jx-p4v8.jl45378.sbs/)
-- [备用入口 jl45378.sbs](https://jl45378.sbs/)
+- [入口 1 · jxy381942.2131568.xyz](https://jxy381942.2131568.xyz/)
+- [入口 2 · jxy593174.2135485.xyz](https://jxy593174.2135485.xyz/)
+- [入口 3 · jxy604713.2131568.xyz](https://jxy604713.2131568.xyz/)
+- [入口 4 · jxy748206.2135485.xyz](https://jxy748206.2135485.xyz/)
+- [入口 5 · jxy729068.2131568.xyz](https://jxy729068.2131568.xyz/)
+- [入口 6 · jxy326951.2135485.xyz](https://jxy326951.2135485.xyz/)
+- [入口 7 · jxy254807.2131568.xyz](https://jxy254807.2131568.xyz/)
+- [入口 8 · jxy905482.2135485.xyz](https://jxy905482.2135485.xyz/)
+- [入口 9 · jxy816395.2131568.xyz](https://jxy816395.2131568.xyz/)
+- [入口 10 · jxy172638.2135485.xyz](https://jxy172638.2135485.xyz/)
+- [入口 11 · jxy467152.2131568.xyz](https://jxy467152.2131568.xyz/)
+- [入口 12 · jxy684527.2135485.xyz](https://jxy684527.2135485.xyz/)
 
 以上入口使用同一套账号和套餐数据，已有账号直接登录即可。订阅地址跟随当前访问的网页域名。
 
-## 其他备用入口
-
-- [www.jianxunyun.site](https://www.jianxunyun.site/)
-- [m.jianxunyun.site](https://m.jianxunyun.site/)
-- [jx-r7m2.jl45378.buzz](https://jx-r7m2.jl45378.buzz/)
-- [jx-b6t9.jl45378.sbs](https://jx-b6t9.jl45378.sbs/)
-- [jx-q4w8.jl45378.sbs](https://jx-q4w8.jl45378.sbs/)
-- [jx-c9h3.jl45378.sbs](https://jx-c9h3.jl45378.sbs/)
-
-
-不同地区、运营商和时段的访问情况可能不同.入口打不开时可换另一个入口或切换手机流量。
+不同地区、运营商和时段的访问情况可能不同。入口打不开时可换另一个入口或切换手机流量。
 
 ## 使用与联系
 
